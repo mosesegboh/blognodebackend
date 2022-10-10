@@ -1,0 +1,5 @@
+{
+    "mongoURI":"mongodb+srv://admin:dangerman@cluster0.7rdm0.mongodb.net/myFirstDatabase?retryWrites=true&w=majority",
+    "ACCESS_TOKEN_SECRET": "51cd8ef8cae98baa3461091a02a9b9b9d322ef4c1effc499ae3711c271f81c5f91448e140b3e01d012025009bb42ea717e89a7412447871ce3961684ab5096d1",
+    "REFRESH_TOKEN_SECRET": "ed1e3fcf9aeb419af39b1f73de63572762c33827239ddc60500930e4d3f1be794a9540a44d8cc691972ca4868c27471a3b9289b455bd5389dbe1fc31ef91c26d"
+}
